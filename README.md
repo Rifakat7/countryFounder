@@ -1,4 +1,4 @@
-task details link--------------> https://saber-columnist-50d.notion.site/Masai-Country-Finder-e9f8d080721c44baa9a3d57f5de7ab80
+task details link-----> https://saber-columnist-50d.notion.site/Masai-Country-Finder-e9f8d080721c44baa9a3d57f5de7ab80
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
